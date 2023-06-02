@@ -1,0 +1,22 @@
+table {
+  width: 100% !important;
+}
+
+tr td {
+  /* text-decoration: underline 5px !important; */
+  border-bottom: 10px !important;
+  text-decoration: underline  3px;
+  text-shadow: 1px;
+}
+
+button {
+  border-radius: 5px !important;
+  color: red;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 9, 121, 1) 85%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}
